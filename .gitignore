@@ -1,0 +1,19 @@
+# Environments
+venv/
+new_venv/
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS Files
+desktop.ini
+.DS_Store
+
+# Project Specific
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/resumes/*
+!backend/resumes/.gitkeep
