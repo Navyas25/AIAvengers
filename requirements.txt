@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-scikit-learn
-PyPDF2
-python-docx
-python-multipart
-sentence-transformers
